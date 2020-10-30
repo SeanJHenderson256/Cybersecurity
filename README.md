@@ -67,7 +67,7 @@ The playbook implements the following tasks:
 
 - Download and configure the elk-docker container on the new VM.
 - Launch and expose the container. Launch the elk-docker container to start the ELK server.
-- Implement identity and access management. Configure your pre-existing security group so you can connect to ELK via HTTP and view it through a browser.
+- Implement identity and access management. Configures the pre-existing security group so you can connect to ELK via HTTP and view it through a browser.
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
