@@ -11,7 +11,7 @@ This document contains the following details:
 ### Description of the Topology
 This repository includes code defining the infrastructure below.
 
-[Click here to view network diagram](https://github.com/SeanJHenderson256/Cybersecurity/Diagrams/project1diagram.png)
+[Click here to view the network diagram](https://github.com/SeanJHenderson256/Cybersecurity/Diagrams/project1diagram.png)
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the "D*mn Vulnerable Web Application"
 
