@@ -9,9 +9,9 @@ This document contains the following details:
 - Access Policies
 
 ### Description of the Topology
-This repository includes code defining the infrastructure below. 
+This repository includes code defining the infrastructure below.
 
-![Diagrams/project1diagram.png]
+[Click here to view network diagram](https://github.com/SeanJHenderson256/Cybersecurity/Diagrams/project1diagram.png)
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the "D*mn Vulnerable Web Application"
 
@@ -71,7 +71,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+(Cybersecurity/Diagrams/project1diagram.png)
 
 The playbook is duplicated below.
 
