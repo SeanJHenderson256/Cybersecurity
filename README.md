@@ -46,7 +46,7 @@ The machines on the internal network are _not_ exposed to the public Internet.
 
 Only the **jump box** machine can accept connections from the Internet. Access to this machine is only allowed from the IP address that is manually configured for a specific IP address to be accessed by the admin. This setting is allocated in the inbound security rules for the Red Team Security group.
 
-Machines _within_ the network can only be accessed by **each other**. The DVWA 1 and DVWA 2 VMs send traffic to the ELK server.
+Machines _within_ the network can only be accessed by **each other**. The DVWA 1,2, and 3 VMs send traffic to the ELK server.
 
 A summary of the access policies in place can be found in the table below.
 
