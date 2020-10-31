@@ -11,7 +11,7 @@ This document contains the following details:
 ### Description of the Topology
 This repository includes code defining the infrastructure below.
 
-![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram1.png)
+![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram01.png)
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the "D*mn Vulnerable Web Application"
 
@@ -224,4 +224,4 @@ To verify success, wait five minutes to give ELK time to start up.
 
 Then, run: `curl http://10.0.0.8:5601`. This is the address of Kibana. If the installation succeeded, this command should print HTML to the console.
 
-![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram.png)
+![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram02.png)
