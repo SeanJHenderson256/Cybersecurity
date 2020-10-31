@@ -13,6 +13,7 @@ This repository includes code defining the infrastructure below.
 
 ![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram01.png)
 
+
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the "D*mn Vulnerable Web Application"
 
 Load balancing ensures that the application will be highly **available**, in addition to restricting **inbound access** to the network. The load balancer ensures that work to process incoming traffic will be shared by both vulnerable web servers. Access controls will ensure that only authorized users — namely, ourselves — will be able to connect in the first place.
@@ -72,7 +73,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(Cybersecurity/Diagrams/project1diagram.png) [todo]
+![output of docker ps command](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/outputofsudodockerps.jpg)
 
 The playbook is duplicated below.
 
