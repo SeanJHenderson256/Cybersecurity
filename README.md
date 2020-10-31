@@ -12,6 +12,7 @@ This document contains the following details:
 This repository includes code defining the infrastructure below.
 
 ![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram.png)
+![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagrama.png)
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the "D*mn Vulnerable Web Application"
 
