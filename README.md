@@ -75,7 +75,7 @@ The following screenshot displays the result of running `docker ps` after succes
 
 ![output of docker ps command](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/outputofsudodockerps.jpg)
 
-The playbook is duplicated below.
+The playbook is duplicated below;
 
 ```yaml
 ---
