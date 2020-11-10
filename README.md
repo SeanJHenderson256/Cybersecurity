@@ -225,4 +225,4 @@ To verify success, wait five minutes to give ELK time to start up.
 
 Then, run: `curl http://10.0.0.8:5601`. This is the address of Kibana. If the installation succeeded, this command should print HTML to the console.
 
-![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram02.png)
+![Network Diagram](https://github.com/SeanJHenderson256/Cybersecurity/blob/main/Diagrams/project1diagram01.png)
